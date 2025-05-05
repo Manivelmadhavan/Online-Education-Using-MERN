@@ -1,4 +1,4 @@
-******* Onine Education Using mern stack
+# Online-Education-Using-MERN-Stack
 
 <h1 align="center">Advanced Auth Tutorial 🔒 </h1>
 
