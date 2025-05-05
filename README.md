@@ -1,6 +1,6 @@
 # Online-Education-Using-MERN-Stack
 
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Advanced MERN Tutorial 🔒 </h1>
 
 About This Course:
 
